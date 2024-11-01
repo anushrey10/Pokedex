@@ -1,7 +1,7 @@
 import React from "react";
 import Wrapper from "../sections/Wrapper";
 import avatarImage from "../assets/ai.jpeg";
-import { FaYoutube, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 function About() {
   return (
